@@ -793,12 +793,12 @@ Meld Encrypt eklentisi ile şifrelenmiş notlar oluşturulabilir. Oluşturmak ve
 [Obsidian v1.0.0 Yenilikleri](https://www.youtube.com/@zinzinzibidi)
 
 #### 1.Güncelleme 
-- v1.0.0 kullanabilmek için `Settings>About>Check for Updates` yapmalıyız.
+- v1.0.0 kullanabilmek için `Settings > About > Check for Updates` yapmalıyız.
 - Eklentileri güncellemek için `Settings > Community plugins > Check for Updates` yapmalıyız.
 - Mobil uygulamayı Google Play'den ya da App Stor'dan güncelleyebiliriz.
 #### 2.Temalar
 - Bazı temalar desteklenmemekte.
-- Tema renkleri `Settings>Appearance > Accent Color`'dan değiştirilebilir.
+- Tema renkleri `Settings > Apperance > Accent Color`'dan değiştirilebilir.
 #### 3.Hızlı Tema Değişikliği
 - `CTRL/CMD + P ` kısayolu komut paleti açılabilir. `Change Theme` ile çok hızlı bir şekilde tema değiştirilebilir.
 #### 4.Sekme Görünümü
