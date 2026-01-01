@@ -789,5 +789,42 @@ Meld Encrypt eklentisi ile şifrelenmiş notlar oluşturulabilir. Oluşturmak ve
 <br>
 
 ---
+### Obsidian v1.0.0 Yenilikleri
+[Obsidian v1.0.0 Yenilikleri](https://www.youtube.com/@zinzinzibidi)
+
+#### 1.Güncelleme 
+- v1.0.0 kullanabilmek için `Settings>About>Check for Updates` yapmalıyız.
+- Eklentileri güncellemek için `Settings > Community plugins > Check for Updates` yapmalıyız.
+- Mobil uygulamayı Google Play'den ya da App Stor'dan güncelleyebiliriz.
+#### 2.Temalar
+- Bazı temalar desteklenmemekte.
+- Tema renkleri `Settings>Appearance > Accent Color`'dan değiştirilebilir.
+#### 3.Hızlı Tema Değişikliği
+- `CTRL/CMD + P ` kısayolu komut paleti açılabilir. `Change Theme` ile çok hızlı bir şekilde tema değiştirilebilir.
+#### 4.Sekme Görünümü
+- İlk dikkat çeken özellik
+- Farenin orta tuşu ile var olan notlardan yeni sekme açılabilir. Ya da \+ simgesi ile yeni sekme oluşturulabilir.
+- Slack tabs ile yığın sekme görünümüne geçilebilir. Bunun için daha önce [[Obsidian Kısayolları#Yan Yana Görünüm|Sliding Panes]] eklentisini kullanıyorduk. Bu eklenti hala kurulu ise kaldırabilirsiniz. Artık gerek kalmadı.
+#### 5.Dosya Dizinini Küçültmek
+- `Collapse all` tuşu ile tüm dosya dizini daraltılabilir.(En başarılı özelliklerinden biri)
+#### 6.Not Sıralamasını Değiştirmek
+- `Change sort order` tuşu ile not sıralaması alfabetik ya da zamansal olarak değiştirilebilir.
+#### 7.Not Menüsü Navigasyonu
+- Notların en üzerindeki navigasyon ile istenilen klasöre gidilebilir.
+#### 8. Tema Büyüklüğünün Değiştirilmesi 
+- `Settings >Apperance > Advance Bölümü > Zoom level`'dan tema ölçeklendirilmesi  yapılabilir.
+- Font Büyüklüğü her zaman aynı yerde. `CTRL/CMD` tuşu basılı iken farenin orta tuşu ile rahatlıkla değiştirilebilir.
+#### 9. Transparan Tema 
+- `Settings > Apperance > Transcluent window` görünümü çok daha iyi bir hale getirilmiş.
+#### 10. Yazım Denetimi Özelliği
+- `Settings > Editor > Behavior Bölümü > Spellcheck` etkinleştirilirse Türkçe dilinde yazım denetimi yapılabilir. Microsoft Word'deki gibi Türkçe algılanmayan her karakteri altı kırmızı çizgi gösterilecektir.
+- En güzel ise Spellcheck sadece düzenleme görünümünde etkin olacaktır. Okuma modunda etkin olmayacaktır. 
+#### 11. Notları Yeni Pencerede Açma 
+- Not adının üzerine sağ tıklayıp `Open in new window` denilebilir ve daha iyi odaklanmak için not üzerinden çalışılabilir.
+#### 12. Sekmelerin Hızlı Kapatımı
+- `CTRL/CMD + W` komutu ile açık sekmeler hızlı bir şekilde kapatılabilir.
+
+
+---
 
 #obsidian
